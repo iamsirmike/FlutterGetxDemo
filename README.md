@@ -7,3 +7,8 @@ A demonstration of the power of the Get package for
 4. Showing bottomsheet
 5. Paasing data from one page to the other
 etc...
+## Screenshot
+<div align="center">
+    <img src="/ss/ss.jpeg" width="400px" height="750" /> 
+</div>
+
